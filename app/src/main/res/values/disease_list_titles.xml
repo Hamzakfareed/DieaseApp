@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="title">Kidney Disease </string>
+    <string name="title1">Liver Disease</string>
+    <string name="title2">Gum Disease</string>
+    <string name="title3">Mouth Sores</string>
+    <string name="title4">Cancer</string>
+    <string name="title5">Diabetes</string>
+    <string name="title6">Oral Cancer</string>
+</resources>

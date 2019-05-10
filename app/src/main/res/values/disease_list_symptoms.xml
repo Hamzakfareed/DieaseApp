@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources><string name="symptoms">Chronic kidney disease (CKD) usually gets worse slowly, and symptoms may not appear until your kidneys are badly damaged. In the late stages of CKD, as you are nearing kidney failure (ESRD), you may notice symptoms that are caused by waste and extra fluid building up in your body.
+
+You may notice one or more of the following symptoms if your kidneys are beginning to fail:
+
+Itching
+Muscle cramps
+Nausea and vomiting
+Not feeling hungry
+Swelling in your feet and ankles
+Too much urine (pee) or not enough urine
+Trouble catching your breath
+Trouble sleeping
+If your kidneys stop working suddenly (acute kidney failure), you may notice one or more of the following symptoms:
+
+Abdominal (belly) pain
+Back pain
+Diarrhea
+Fever
+Nosebleeds
+Rash
+Vomiting
+Having one or more of any of the symptoms above may be a sign of serious kidney problems. If you notice any of these symptoms, you should contact your doctor right away.</string>
+
+<string name="symptom1">Liver Disease Symptoms
+Common Symptoms of Liver Disease
+Classic symptoms of liver disease include:
+
+nausea,
+vomiting,
+right upper quadrant abdominal pain, and
+jaundice (a yellow discoloration of the skin due to elevated bilirubin concentrations in the bloodstream).
+Fatigue, weakness and weight loss may also be occur.
+
+However, since there are a variety of liver diseases, the symptoms tend to be specific for that illness until late-stage liver disease and liver failure occurs.</string>
+
+<string name="symptoms2">Gum disease can be painless, so it is important to be aware of any of the following symptoms:
+
+Gums that easily bleed when brushing or flossing
+
+Swollen, red or tender gums
+
+Gums that recede or move away from the tooth
+
+Persistent bad breath or bad taste in mouth
+
+Loose teeth
+
+A change in the way your teeth come together
+
+A change in the fit of partial dentures
+
+Visible pus surrounding the teeth and gums
+
+Sharp or dull pains when chewing foods
+
+Teeth that are overly sensitive to cold or hot temperatures</string>
+
+    <string name="symptoms3">In most cases, mouth sores cause some redness and pain, especially when eating and drinking. They can also cause a burning or tingling sensation around the sore. Depending on the size, severity, and location of the sores in your mouth, they can make it difficult to eat, drink, swallow, talk, or breathe. The sores may also develop blisters.
+
+Contact your doctor if you experience any of the following symptoms:
+
+sores that are larger than half an inch in diameter
+frequent outbreaks of mouth sores
+rash
+joint pain
+fever
+diarrhea</string>
+
+    <string name="symptom4">Cancer symptoms and signs depend on the specific type and grade of cancer; although general signs and symptoms are not very specific the following can be found in patients with different cancers: fatigue, weight loss, pain, skin changes, change in bowel or bladder function, unusual bleeding, persistent cough or voice change, fever, lumps, or tissue masses.
+Although there are many tests to screen and presumptively diagnose cancer, the definite diagnosis is made by examination of a biopsy sample of suspected cancer tissue.</string>
+    <string name="symptom5">Doctors can determine whether a patient has a normal metabolism, prediabetes or diabetes in one of three different ways - there are three possible tests:
+
+The A1C test
+- at least 6.5% means diabetes
+- between 5.7% and 5.99% means prediabetes
+- less than 5.7% means normal
+The FPG (fasting plasma glucose) test
+- at least 126 mg/dl means diabetes
+- between 100 mg/dl and 125.99 mg/dl means prediabetes
+- less than 100 mg/dl means normal
+An abnormal reading following the FPG means the patient has impaired fasting glucose (IFG)
+The OGTT (oral glucose tolerance test)
+- at least 200 mg/dl means diabetes
+- between 140 and 199.9 mg/dl means prediabetes
+- less than 140 mg/dl means normal
+An abnormal reading following the OGTT means the patient has impaired glucose tolerance (IGT)</string>
+
+    <string name="symptoms6">The most common symptoms of oral cancer include:
+
+Swellings/thickenings, lumps or bumps, rough spots/crusts/or eroded areas on the lips, gums, or other areas inside the mouth
+The development of velvety white, red, or speckled (white and red) patches in the mouth
+ 	oral cancer
+Unexplained bleeding in the mouth
+Unexplained numbness, loss of feeling, or pain/tenderness in any area of the face, mouth, or neck
+Persistent sores on the face, neck, or mouth that bleed easily and do not heal within 2 weeks
+A soreness or feeling that something is caught in the back of the throat
+Difficulty chewing or swallowing, speaking, or moving the jaw or tongue
+Hoarseness, chronic sore throat, or change in voice
+Ear pain
+A change in the way your teeth or dentures fit together
+Dramatic weight loss</string>
+</resources>
